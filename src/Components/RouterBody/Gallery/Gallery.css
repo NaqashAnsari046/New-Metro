@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.cardimgG img{
+    width: 100%;
+    height: 35vh;
+}
+#CardG{
+    margin-top: 1rem;
+    width: 100%;
+}
+#GNew{
+    font-weight: 600 !important;
+}
+#newSmallSet{
+    padding: 3rem;
+}
+
+@media only screen and (max-width: 420px) {
+    #newSmallSet{
+        padding: 1rem;
+    }
+  }

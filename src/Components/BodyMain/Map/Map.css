@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#mapset{
+    padding: 5rem;
+}
+#mapset h1{
+    letter-spacing: 0.4rem;
+    font-weight: 600;
+}
+#mapset p{
+    text-align: center;
+    padding: 2rem;
+}
+.backgroundcolor{
+    background-color: white;
+}
+
+@media only screen and (max-width: 420px) {
+    #mapset{
+        padding: 1rem;
+    }
+
+    #mapset p{
+        padding: 0.3rem;
+    }
+   }

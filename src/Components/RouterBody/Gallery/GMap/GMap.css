@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#cardGmap{
+    width: 100%;
+}
+.cardimgGMAp img{
+  width: 100%;
+  height: 100vh;
+}
+
+.cardimgGMAp img:hover{
+    width: 100%;
+    height: 120vh;
+  }
+
+#GMcard{
+  width: 100%;
+  height: 50vh;
+  margin-top: 0.6rem;
+}
+.cardimgGm img{
+    width: 100%;
+    height: 46vh;
+}
+.cardimgGm p{
+    margin-top: 3rem;
+}
+#cityG{
+  font-weight: 600;
+}

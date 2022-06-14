@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#videoset{
+    padding-top: 2rem;
+}
+
+@media only screen and (max-width: 420px) {
+    iframe{
+        height: 50vh;
+    }
+  }

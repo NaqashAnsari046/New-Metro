@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#time{
+    margin-top: -1rem;
+}
+#textset{
+    color: white;
+}
+
+
+@media only screen and (max-width: 420px) {
+    #textset h1{
+        font-size: 1.6rem;
+    }
+  }

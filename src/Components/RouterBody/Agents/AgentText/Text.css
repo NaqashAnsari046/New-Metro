@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#agentText{
+    text-align: center;
+    padding: 3rem;
+    color: white;
+    text-transform: capitalize;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Pacifico', cursive;    
+}

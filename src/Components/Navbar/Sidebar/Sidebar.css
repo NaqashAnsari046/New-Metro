@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#navH{
+    height:2.4rem;
+    background-color: black;
+}
+#tollicon{
+   padding-left: 20rem;
+}
+#mail{
+    padding-left: 2rem;
+}
+#mailset{
+    font-size: 1.3rem;
+}
+#mediaSet{
+    font-size: 1.3rem;
+    margin-left: 1rem;
+}
+
+
+@media only screen and (max-width: 420px) {
+    #navH{
+        display: none;
+    }
+  }
+
+  @media only screen and (max-width: 920px) {
+    #navH{
+        display: none;
+    }
+  }
+
+  
+  /* @media only screen and (max-width: 1050px) {
+    #navH{
+        display: none;
+    }
+  } */

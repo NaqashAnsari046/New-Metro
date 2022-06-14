@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#borGVideo{
+    margin-top: 1rem;
+    padding: 1rem;
+    border:  1px solid gainsboro;
+}
+#GvideoText{
+    margin-top: 1rem;
+    padding: 1rem;
+    border:  1px solid gainsboro;
+    height: 45.5vh;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 7rem;
+}
+#GvideoText:hover{
+    opacity: 0.8;
+    
+}
+#setsmallGV{
+    padding: 3rem;
+}
+#setsmallGV h3{
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+@media only screen and (max-width: 420px) {
+    #setsmallGV{
+        padding: 1rem;
+    }
+    #GvideoText h3{
+        font-size: 0.8rem;
+        font-weight: 900;
+    }
+    #GvideoText h6{
+        font-size: 0.6rem;
+        font-weight: 900;
+    }
+  }

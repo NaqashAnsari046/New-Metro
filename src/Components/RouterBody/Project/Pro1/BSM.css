@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#cardP{
+    width: 100%;
+    margin-top: 1rem;
+}
+.cardimgP img{
+    width: 100%;
+    height: 40vh;
+}
+#setPMain h3{
+    text-transform: uppercase;
+    font-weight: 700;
+    padding-bottom: 1rem;
+}
+#settextP {
+    border-radius: 5px;
+    background-color: white;
+    text-transform: capitalize;
+    overflow: hidden;
+    padding: 2rem;
+    border: 1px solid gainsboro;
+    height: 44vh;
+    margin-top: 1rem;
+}
+#settextP h2{
+    text-transform: uppercase;
+}
+
+#settextP h6{
+    margin-top: 2rem;
+}
+
+
+@media only screen and (max-width: 420px) {
+    #settextP h6{
+        font-size: 0.8rem;
+        margin-top: 1rem;
+    }
+  }

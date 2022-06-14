@@ -1,0 +1,34 @@
+*{
+    padding:0;
+    margin: 0;
+}
+.cardimg img{
+    width: 100%;
+    height: 30vh;
+}
+#topset{
+    margin-top: 1rem;
+}
+.card{
+    float: left !important;
+    text-align: center;
+    padding: 1rem;
+}
+.card h1{
+    font-size: 1.5rem;
+    border-bottom: 1px solid gray;
+    padding-bottom: 1.5rem;
+    font-weight: 600;
+}
+.card-date small{
+    font-size: 1rem;
+}
+.card-heading h1{
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+#newsmall{
+    font-size:1.4rem;
+    margin-top: -0.8rem;
+    letter-spacing: 0.3rem;
+}

@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#ourMission{
+    background-color: white;
+    padding: 6rem;
+}
+#ourMission p{
+    font-size: 1.4rem;
+    text-align-last: center;
+}
+
+
+@media only screen and (max-width: 420px) {
+    #ourMission p{
+        font-size: 0.7rem;
+    }
+    #ourMission{
+        padding: 2rem;
+    }
+   }

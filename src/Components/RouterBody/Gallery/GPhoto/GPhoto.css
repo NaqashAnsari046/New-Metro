@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#CardGPhoto{
+    width: 100%;
+    margin-top: 1rem;
+}
+.cardimgGP img{
+  width: 100%;
+  height: 35vh;
+}
+#GpHoue{
+  font-weight: 600;
+}
